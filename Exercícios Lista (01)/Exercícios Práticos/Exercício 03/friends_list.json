@@ -1,0 +1,22 @@
+{
+    "my_friends": [
+      {
+        "name": "Person01",
+        "surname": "Surname01",
+        "birthday": "01.12.2022",
+        "email": "testsubject01@gmail.com"
+      },
+      {
+        "name": "Person02",
+        "surname": "Surname02",
+        "birthday": "01.11.2022",
+        "email": "testsubject02@gmail.com"
+      },
+      {
+        "name": "Person03",
+        "surname": "Surname03",
+        "birthday": "01.10.2022",
+        "email": "testsubject03@gmail.com"
+      }
+    ]
+  }
